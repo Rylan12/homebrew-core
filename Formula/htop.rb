@@ -4,6 +4,7 @@ class Htop < Formula
   url "https://github.com/htop-dev/htop/archive/3.0.2.tar.gz"
   sha256 "b4744a3bea279f2a3725ed8e5e35ffd9cb10d66673bf07c8fe21feb3c4661305"
   license "GPL-2.0-or-later"
+  revision 1
   head "https://github.com/htop-dev/htop.git"
 
   livecheck do
